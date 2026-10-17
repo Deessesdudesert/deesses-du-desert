@@ -28,3 +28,4 @@
 /* Affichage des deux formules de la sortie dauphins */
 .prices{display:flex;flex-direction:column;align-items:flex-end;gap:5px;max-width:58%}.prices .price{white-space:normal;text-align:center;line-height:1.3}
 @media(max-width:650px){.prices{max-width:55%}.prices .price{font-size:11px;padding:6px 8px}}
+/* Bannière Égypte référence */.section img[src="banniere-egypte-reference.jpg"] {display: block;width: 100%;height: auto;}
