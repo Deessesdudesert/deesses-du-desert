@@ -1,0 +1,19 @@
+Sources des photos des excursions
+Les photos de cette version sont chargées depuis les sites sources suivants. Vérifier les droits d'utilisation commerciale et les conditions de chaque fournisseur avant publication.
+
+Orange Bay : https://africa.pl/orangebay/
+Hula Hula : https://routri.com/ar/hurghada/hurghada-hula-hula-island-boat-trip-with-snorkeling-lunch
+White Island / banc de sable : https://www.getyourguide.com/en-gb/hurghada-l403/hurghada-yacht-cruise-dolphin-3-island-with-seafood-lunch-t888318/
+Le Caire / pyramides de Gizeh : https://gem.museum/grand-egyptian-museum_-giza-pyramids_-and-bazaar-layover-tour
+Louxor / Karnak : https://absoluteegypt.com.au/blog/temples-of-karnak-and-luxor
+Visite de Hurghada : https://commons.wikimedia.org/wiki/Category:Hurghada_Marina
+Dauphins : https://theabroadguide.com/royal-dolphin-house-water-sports-snorkeling-sea-trip-hurghada/
+Plongée : https://scubadiving-hurghada.com/gallery
+Balade à cheval : https://hurghadahorseriding.com/gallery/
+
+Certaines activités comme Wave Island et le quad utilisent encore des photos génériques et doivent être remplacées par des images dont la destination exacte et les droits sont confirmés. La photo White Island est une illustration photographique d'un banc de sable de la mer Rouge, pas une garantie qu'il s'agit de l'île exacte visitée par le prestataire.
+
+Mises à jour demandées :
+- Wave Island : photo fournie par la cliente, stockée localement dans assets/wave-island-hurghada.jpeg.
+- Hula Hula : nouvelle URL d’image de l’île.
+- Quad dans le désert : photo de safari quad via En Egypte (URL externe à vérifier avant publication).

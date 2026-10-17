@@ -1,0 +1,35 @@
+LES DÉESSES DU DÉSERT — VERSION THÈME ROSE, BORDEAUX ET OR
+
+Le site accueille les personnes qui voyagent seules, entre amis ou en famille. Le titre « L’Égypte au féminin » a été remplacé par « L’Égypte, autrement ». Le logo fourni est dans assets/logo-deesses-du-desert.jpeg.
+
+APERÇU : décompressez le ZIP et double-cliquez sur index.html. Une connexion Internet est nécessaire pour charger les images et polices externes.
+
+PUBLICATION GRATUITE AVEC GITHUB PAGES :
+1. Créez un compte sur https://github.com/
+2. Créez un dépôt public nommé deesses-du-desert.
+3. Envoyez index.html, style.css, script.js et le dossier assets (avec son image) à la racine du dépôt.
+4. Ouvrez Settings > Pages.
+5. Choisissez Deploy from a branch, puis main et /(root), et enregistrez.
+6. Attendez la publication ; l’adresse sera de type https://VOTRE-NOM.github.io/deesses-du-desert/
+
+Avant publication, remplacez l’adresse e-mail dans script.js et vérifiez les droits des photos externes. Le formulaire ouvre le logiciel de messagerie et ne stocke pas les messages. Aucun paiement ou réservation automatique n’est encore configuré. Ajoutez les mentions légales et informations nécessaires avant une utilisation commerciale.
+
+MISE À JOUR VISUELLE : la bannière utilise maintenant un recadrage de la photo de référence fournie, avec un dégradé rose poudré à droite. Le titre est « L’Égypte, autrement ». Le fichier de bannière se trouve dans assets/banniere-egypte-reference.jpg.
+
+BANNIÈRE : la photo de la bannière utilise une image en ligne de plage de la mer Rouge / Hula Hula. Avant la publication commerciale, vérifie l'autorisation d'utilisation auprès du propriétaire de la photo ou remplace-la par une image dont tu possèdes les droits.
+
+
+BANNIÈRE PERSONNALISÉE : l’image paysage des pyramides et des îles d’Hurghada est intégrée localement dans assets/banniere-egypte-iles-pyramides.png. Elle s’affiche en entier dans la page d’accueil. Vérifiez les droits d’utilisation commerciale de l’image générée avant publication.
+
+
+MISE À JOUR — EXCURSIONS
+La page d’accueil contient maintenant 11 cartes d’excursions (Orange Bay, Hula Hula, White Island, Wave Island, Le Caire, Louxor, visite de la ville, dauphins, quad, plongée et cheval). Les tarifs affichés proviennent du visuel fourni et doivent être confirmés avant publication. Les photos des cartes sont chargées depuis des URL externes.
+
+
+CONTACT WHATSAPP
+Le bouton « Devis personnalisé WhatsApp » est intégré au site et ouvre une conversation avec le numéro +33 6 26 17 03 87. Vérifiez que ce numéro est bien celui de l’agence et qu’il est actif sur WhatsApp avant publication.
+
+
+Mise à jour : la section « L’esprit du voyage » possède une nouvelle image locale et un texte inspirant avec un bouton WhatsApp pour demander un devis personnalisé.
+
+La photo de la rubrique « L’esprit du voyage » a été remplacée par la photo fournie par la cliente. Le texte reste placé sur le côté.
